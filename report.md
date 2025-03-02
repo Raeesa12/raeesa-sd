@@ -1,0 +1,1 @@
+I am setting up a GitHub repository and deploying an HTML page.
